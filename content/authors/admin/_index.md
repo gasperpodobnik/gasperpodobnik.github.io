@@ -165,14 +165,14 @@ work:
 awards:
   - title: Fulbright Scholarship
     url: https://www.fulbrightprogram.org/
-    date: '2023-11-06'
+    date: '2024-11-06'
     awarder: Fulbright Program
     icon: edx
     summary: |
       The Fulbright Program, the United States government's flagship program of international educational and cultural exchange, offers passionate and accomplished students and scholars in more than 160 countries the opportunity to study, teach, conduct research, exchange ideas, and contribute to mutual understanding.
   - title: ASEF Junior Fellowship
     url: https://asef.net/
-    date: '2020-02-04'
+    date: '2022-01-18'
     awarder: American Slovenian Education Foundation
     icon: edx
     summary: |

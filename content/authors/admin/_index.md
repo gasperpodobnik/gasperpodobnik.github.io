@@ -1,23 +1,23 @@
 ---
 # Display name
-title: 吳健雄
+title: Gasper Podobnik
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gašper
+last_name: Podobnik
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Student in Medical Image Analysis
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -28,50 +28,64 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gasper.podobnik@fe.uni-lj.si'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/gasperpodobnik
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/gasperpodobnik
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/gasperpodobnik/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=wLYUwqMAAAAJ&hl=sl&oi=ao
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-4142-3304
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Electrical Engineering | Medical Image Analysis
+    institution: University of Ljubljana
+    date_start: 2020-10-01
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis topic: _Multi-modal Medical Image Segmentation Using Deep Learning_. Supervised by [Prof Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/).
+  - area: MSc Electrical Engineering | Biomedical Engineering
+    institution: University of Ljubljana
+    date_start: 2016-10-01
+    date_end: 2020-09-11
     summary: |
-      GPA: 3.8/4.0
+      GPA: 10.0/10.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Neurocybernetics
+      - Medical Image Analysis
+      - Intelligent Methods in Biomedicine Data-mining
+      - Biomedical Imaging Technologies
+      - Biomedical Sensors and Electronics
+      - Biomedical Signal Processing
+      
+      Master's Thesis: _Regression models for predicting cerebrospinal fluid biomarkers of Alzheimer's disease_
+    button:
+      text: 'Read Thesis'
+      url: 'https://repozitorij.uni-lj.si/IzpisGradiva.php?id=119818&lang=eng'
+  - area: BSc Electrical Engineering
+    institution: University of Ljubljana
+    date_start: 2015-10-01
+    date_end: 2018-07-02
     summary: |
-      GPA: 3.4/4.0
+      GPA: 10.0/10.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+      - Control Systems
+      - Signal Processing
+      - Intelligent Systems
+      - Semiconductor Electronics
+      - Optoelectronics
+      
+      Activities and societies: 
+      - Student Council, 
+      - Faculty's Senate,
+      - Study Affairs Committee
+<!-- work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -93,11 +107,11 @@ work:
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit -->
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+<!-- skills:
   - name: Technical Skills
     items:
       - name: Python
@@ -135,7 +149,7 @@ languages:
   - name: Chinese
     percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 25 -->
 
 # Awards.
 #   Add/remove as many awards below as you like.

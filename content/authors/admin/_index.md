@@ -53,7 +53,7 @@ education:
     date_start: 2024-07-15
     date_end: 2024-07-20
     summary: |
-      Presented a poster, participated in lectures and coding tutorials on various advanced topics including: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality.
+      Presented a poster, participated in lectures and coding tutorials on various topics including: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality.
 
       These sessions were led by some of the field's leading experts, such as Alfredo Canziani, Sander Dieleman, Nenad Tomašev, Petar Veličković, Matko Bošnjak, Yee Whye Teh, Aleksandra Faust, Çağlar Gülçehre, Chris Dyer, Jovana Mitrović, Michael Bronstein, Razvan Pascanu, Martin Vechev, Ivana Malenica, and others.
   - area: MSc Electrical Engineering | Biomedical Engineering
@@ -62,6 +62,7 @@ education:
     date_end: 2020-09-11
     summary: |
       GPA: 10.0/10.0
+
       Courses included:
       - Neurocybernetics
       - Medical Image Analysis
@@ -69,6 +70,7 @@ education:
       - Biomedical Imaging Technologies
       - Biomedical Sensors and Electronics
       - Biomedical Signal Processing
+
       Master's Thesis: _Regression models for predicting cerebrospinal fluid biomarkers of Alzheimer's disease_
     button:
       text: 'Read Thesis'
@@ -85,6 +87,7 @@ education:
     date_end: 2018-07-02
     summary: |
       GPA: 10.0/10.0
+
       Courses included:
       - Control Systems
       - Signal Processing

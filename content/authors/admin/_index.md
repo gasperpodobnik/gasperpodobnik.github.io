@@ -53,7 +53,8 @@ education:
     date_start: 2024-07-15
     date_end: 2024-07-20
     summary: |
-      Presented a poster, participated in lectures and coding tutorials on various advanced topics including: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality. 
+      Presented a poster, participated in lectures and coding tutorials on various advanced topics including: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality.
+
       These sessions were led by some of the field's leading experts, such as Alfredo Canziani, Sander Dieleman, Nenad Tomašev, Petar Veličković, Matko Bošnjak, Yee Whye Teh, Aleksandra Faust, Çağlar Gülçehre, Chris Dyer, Jovana Mitrović, Michael Bronstein, Razvan Pascanu, Martin Vechev, Ivana Malenica, and others.
   - area: MSc Electrical Engineering | Biomedical Engineering
     institution: University of Ljubljana
@@ -194,4 +195,4 @@ I am a PhD candidate in Electrical Engineering at the **University of Ljubljana*
 
 My research focuses on medical image analysis, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
 
-Please reach out to collaborate 😃
+For a full list of my publications, please refer to my [CV](uploads/resume.pdf) or [Google Scholar](https://scholar.google.com/citations?user=wLYUwqMAAAAJ&hl=sl&oi=ao). Feel free to reach out if you'd like to collaborate! 😃

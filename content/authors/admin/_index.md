@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gasper Podobnik
+title: Gašper Podobnik
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -21,8 +21,8 @@ role: PhD Student in Medical Image Analysis
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: University of Ljubljana
+    url: https://lit.fe.uni-lj.si/en/members/gasperp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -156,31 +156,32 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: Fulbright Scholarship
+    url: https://www.fulbrightprogram.org/
+    date: '2023-11-06'
+    awarder: Fulbright Program
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      The Fulbright Program, the United States government's flagship program of international educational and cultural exchange, offers passionate and accomplished students and scholars in more than 160 countries the opportunity to study, teach, conduct research, exchange ideas, and contribute to mutual understanding.
+  - title: ASEF Junior Fellowship
+    url: https://asef.net/
+    date: '2020-02-04'
+    awarder: American Slovenian Education Foundation
+    icon: edx
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The purpose of the fellowship program is to strengthen research and study exchange between Slovenia and other countries to give talented Slovenian students the ability to realize their potential to the fullest.
+  - title: The Award of the Dean for exemplary completion of study requirements
+    date: '2015-12-01'
+    awarder: University of Ljubljana
+    icon: edx
+    summary: |
+      The Award of the Dean is an annual recognition given to the top-performing students in each academic year, based on their academic achievements and grades.
+  - title: The Award of the Dean for exemplary completion of study requirements
+    date: '2015-12-01'
+    awarder: University of Ljubljana
+    icon: edx
+    summary: |
+      The Award of the Dean is an annual recognition given to the top-performing students in each academic year, based on their academic achievements and grades.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a PhD candidate in Electrical Engineering at the **University of Ljubljana**. As part of my PhD journey, I have undertaken two research internships: one as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA), which is currently ongoing. My research focuses on medical image analysis, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. Please reach out to collaborate 😃

@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: andrea-leopardi-QVD3Xht9txA-unsplash2.jpg
+        filename: andrea-leopardi-QVD3Xht9txA-unsplash.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -33,16 +33,16 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: skills
+  <!-- - block: skills
     content:
       title: Skills & Hobbies
-      username: admin
+      username: admin -->
   - block: awards
     content:
       title: Awards
       username: admin
-  - block: languages
+  <!-- - block: languages
     content:
       title: Languages
-      username: admin
+      username: admin -->
 ---

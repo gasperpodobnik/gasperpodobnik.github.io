@@ -48,8 +48,8 @@ education:
     date_end: ''
     summary: |
       Thesis topic: _Multi-modal Medical Image Segmentation Using Deep Learning_. Supervised by [Prof Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/).
-  - area: Eastern European Machine Learning Summer School
-    institution: EEML
+  - area: Summer School on Machine Learning 
+    institution: Eastern European Machine Learning Summer School (EEML)
     date_start: 2024-07-15
     date_end: 2024-07-20
     summary: |
@@ -61,7 +61,6 @@ education:
     date_end: 2020-09-11
     summary: |
       GPA: 10.0/10.0
-
       Courses included:
       - Neurocybernetics
       - Medical Image Analysis
@@ -69,7 +68,6 @@ education:
       - Biomedical Imaging Technologies
       - Biomedical Sensors and Electronics
       - Biomedical Signal Processing
-      
       Master's Thesis: _Regression models for predicting cerebrospinal fluid biomarkers of Alzheimer's disease_
     button:
       text: 'Read Thesis'
@@ -86,7 +84,6 @@ education:
     date_end: 2018-07-02
     summary: |
       GPA: 10.0/10.0
-      
       Courses included:
       - Control Systems
       - Signal Processing
@@ -113,7 +110,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-01-18
-    date_end: 2022-01-08
+    date_end: 2022-04-08
     summary: |
       Research on tumor segmentation in mammograms using deep learning.
       Supervised by [Prof Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
@@ -194,5 +191,7 @@ awards:
 ---
 
 I am a PhD candidate in Electrical Engineering at the **University of Ljubljana**. As part of my PhD journey, I have undertaken two research internships: one as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA), which is currently ongoing. 
+
 My research focuses on medical image analysis, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
+
 Please reach out to collaborate 😃

@@ -48,6 +48,13 @@ education:
     date_end: ''
     summary: |
       Thesis topic: _Multi-modal Medical Image Segmentation Using Deep Learning_. Supervised by [Prof Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/).
+  - area: Eastern European Machine Learning Summer School
+    institution: EEML
+    date_start: 2024-07-15
+    date_end: 2024-07-20
+    summary: |
+      Presented a poster, participated in lectures and coding tutorials on various advanced topics including: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality. 
+      These sessions were led by some of the field's leading experts, such as Alfredo Canziani, Sander Dieleman, Nenad Tomašev, Petar Veličković, Matko Bošnjak, Yee Whye Teh, Aleksandra Faust, Çağlar Gülçehre, Chris Dyer, Jovana Mitrović, Michael Bronstein, Razvan Pascanu, Martin Vechev, Ivana Malenica, and others.
   - area: MSc Electrical Engineering | Biomedical Engineering
     institution: University of Ljubljana
     date_start: 2016-10-01
@@ -67,6 +74,12 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://repozitorij.uni-lj.si/IzpisGradiva.php?id=119818&lang=eng'
+  - area: Summer School on Biomedical Imaging
+    institution: ETH Zürich
+    date_start: 2019-09-02
+    date_end: 2019-09-13
+    summary: |
+      Lectures and practicals on various biomedical imaging modalities; convered a range of cutting-edge techniques and analysis tools.
   - area: BSc Electrical Engineering
     institution: University of Ljubljana
     date_start: 2015-10-01
@@ -85,71 +98,67 @@ education:
       - Student Council, 
       - Faculty's Senate,
       - Study Affairs Committee
-<!-- work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+work:
+  - position: Research Intern
+    company_name: Johns Hopkins University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-11-06
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Research on synthetic data generation for medical image analysis tasks.
+      Supervised by [Assoc Prof Mathias Unberath](https://mathiasunberath.github.io/).
+  - position: Research Intern
+    company_name: University of Cambridge
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-01-18
+    date_end: 2022-01-08
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit -->
+      Research on tumor segmentation in mammograms using deep learning.
+      Supervised by [Prof Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-<!-- skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: devicon/python
+#       - name: RStudio
+#         description: ''
+#         percent: 100
+#         icon: devicon/rstudio
+#       - name: PyTorch
+#         description: ''
+#         percent: 40
+#         icon: devicon/pytorch
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25 -->
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

@@ -170,18 +170,20 @@ awards:
     icon: edx
     summary: |
       The purpose of the fellowship program is to strengthen research and study exchange between Slovenia and other countries to give talented Slovenian students the ability to realize their potential to the fullest.
-  - title: The Award of the Dean for exemplary completion of study requirements
-    date: '2015-12-01'
+  - title: University of Ljubljana Best Student Award
+    date: '2018-06-26'
     awarder: University of Ljubljana
     icon: edx
     summary: |
-      The Award of the Dean is an annual recognition given to the top-performing students in each academic year, based on their academic achievements and grades.
+      The University of Ljubljana Best Student Award is the highest honor granted annually to 30 students across all disciplines, recognizing their exceptional academic achievements and grades.
   - title: The Award of the Dean for exemplary completion of study requirements
-    date: '2015-12-01'
+    date: '2016-12-05'
     awarder: University of Ljubljana
     icon: edx
     summary: |
-      The Award of the Dean is an annual recognition given to the top-performing students in each academic year, based on their academic achievements and grades.
+      The Dean's Award is an annual recognition given to the top-performing students in each academic year based on their academic achievements and grades. I have received this award for all three years of my bachelor's studies and both years of my master's studies.
 ---
 
-I am a PhD candidate in Electrical Engineering at the **University of Ljubljana**. As part of my PhD journey, I have undertaken two research internships: one as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA), which is currently ongoing. My research focuses on medical image analysis, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. Please reach out to collaborate 😃
+I am a PhD candidate in Electrical Engineering at the **University of Ljubljana**. As part of my PhD journey, I have undertaken two research internships: one as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA), which is currently ongoing. 
+My research focuses on medical image analysis, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
+Please reach out to collaborate 😃

@@ -193,6 +193,6 @@ awards:
 
 I am a PhD candidate in Electrical Engineering at the **University of Ljubljana** (Slovenia). As part of my PhD journey, I have undertaken two research internships: one as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA), which is currently ongoing. 
 
-My research focuses on medical image analysis, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
+My research focuses on medical image analysis, 3D semantic segmentation, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
 
-For a full list of my publications, please refer to my [CV](uploads/resume.pdf) or [Google Scholar](https://scholar.google.com/citations?user=wLYUwqMAAAAJ&hl=sl&oi=ao). Feel free to reach out if you'd like to collaborate! 😃
+For a full list of my publications, please refer to my [CV](uploads/GasperPodobnik-CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=wLYUwqMAAAAJ&hl=sl&oi=ao). Feel free to reach out if you'd like to collaborate! 😃

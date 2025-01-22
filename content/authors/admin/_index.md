@@ -166,6 +166,13 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Winner of Best Technical Implementation at the Computer Vision Projects Expo 2024
+    url: https://app.readytensor.ai/publications/EBkUTyaTf9F3?_gl=1*1h88pvs*_ga*NTk5MDA0NTc2LjE3Mzc1NjA2MTU.*_ga_XXMW3S58WE*MTczNzU2NTg1MC4yLjEuMTczNzU2NjM2My4wLjAuMA..
+    date: '2025-01-22'
+    awarder: Ready Tensor
+    icon: edx
+    summary: |
+      The Computer Vision Projects Expo 2024, an international competition organized by [Ready Tensor](https://www.readytensor.ai/), aims to recognize innovative computer vision projects from around the globe, spanning core computer vision to multi-modal applications. Our open-source tool, [MeshMetrics](https://github.com/gasperpodobnik/MeshMetrics), was selected as the winner in the Best Technical Implementation category, among over 500 submissions.
   - title: Fulbright Scholarship
     url: https://www.fulbrightprogram.org/
     date: '2024-11-06'

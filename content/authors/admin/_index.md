@@ -170,10 +170,10 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: MICCAI 2025 Outstanding reviewer award
+  - title: Outstanding reviewer award (MICCAI 2025)
     url: https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html
     date: '2025-09-23'
-    awarder: The 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
+    awarder: The 28th International Conference on Medical Image Computing and Computer Assisted Intervention
     icon: edx
     summary: |
       Recognition for contributions to the peer-review process at MICCAI 2025.

@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Medical Image Analysis
+role: Researcher (Open to Work) | PhD in Medical Image Analysis
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,12 +42,16 @@ profiles:
     url: https://orcid.org/0000-0002-4142-3304
 
 education:
-  - area: PhD Electrical Engineering | Medical Image Analysis
+  - area: PhD in Electrical Engineering | Medical Image Analysis
     institution: University of Ljubljana
     date_start: 2020-10-01
-    date_end: ''
+    date_end: 2025-09-17
     summary: |
-      Thesis topic: _Multi-modal Medical Image Segmentation Using Deep Learning_. Supervised by [Prof Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/).
+      Thesis: [_Multi-modal Medical Image Segmentation Using Deep Learning_](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=173577&lang=eng).
+
+      Advised by [Prof. Dr. Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/) and co-advised by [Assoc. Prof. Dr. Bulat Ibragimov](https://bulatibragimov.com/).
+
+      My doctoral research focused on improving the accuracy and clinical reliability of organ-at-risk (OAR) segmentation for radiotherapy planning, particularly in the anatomically complex head and neck region. I investigated the potential and limitations of combining computed tomography (CT) and magnetic resonance (MR) data for this task, addressing challenges such as image registration, modality-specific artifacts, and clinical validation. As part of this work, we developed the [HaN-Seg dataset](https://zenodo.org/records/7442914) - a public paired CT–MR dataset with expert annotations - and organized a [computational challenge](https://han-seg2023.grand-challenge.org/) on multi-modal segmentation. We also designed in-house multi-modal models to explore the integration of CT and MR information. On the validation side, we conducted geometric, dosimetric, and psychometric analyses of organ-at-risk auto-segmentation and introduced [MeshMetrics](https://github.com/gasperpodobnik/MeshMetrics), a mesh-based implementation of distance-based metrics for 2D and 3D segmentation evaluation.
   - area: Summer School on Machine Learning 
     institution: Eastern European Machine Learning Summer School (EEML)
     date_start: 2024-07-15
@@ -201,7 +205,7 @@ awards:
       The Dean's Award is an annual recognition given to the top-performing students in each academic year based on their academic achievements and grades. I have received this award for all three years of my bachelor's studies and both years of my master's studies.
 ---
 
-I am a PhD candidate in Electrical Engineering at the **University of Ljubljana** (Slovenia). As part of my PhD journey, I have undertaken two research internships: one as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA), which is currently ongoing. 
+I recently earned my PhD in Electrical Engineering from the **University of Ljubljana** (Slovenia). During my doctoral studies, I completed two international research fellowships: as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and another as a _Fulbright Scholar_ at **Johns Hopkins University** (USA). which is currently ongoing. I am currently transitioning to a new role and am open to new opportunities.
 
 My research focuses on medical image analysis, 3D semantic segmentation, modeling of human anatomy, development of validation metrics, and generative models for synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
 

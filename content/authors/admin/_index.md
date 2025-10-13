@@ -103,7 +103,7 @@ education:
       - Faculty's Senate,
       - Study Affairs Committee
 work:
-  - position: Research Intern
+  - position: Research Intern (Fulbright Scholarship)
     company_name: Johns Hopkins University
     company_url: ''
     company_logo: ''
@@ -113,7 +113,7 @@ work:
       Developed [AnatomyGen](https://doi.org/10.1007/978-3-032-06774-6_10), a generative model of human anatomy using implicit neural representations, capable of producing realistic, high-resolution anatomical phantoms for use in virtual imaging trials in medicine and _in silico_ experimentation.
 
       Advised by [Assoc. Prof. Dr. Mathias Unberath](https://mathiasunberath.github.io/).
-  - position: Research Intern
+  - position: Research Intern (ASEF Junior Fellow)
     company_name: University of Cambridge
     company_url: ''
     company_logo: ''
@@ -121,7 +121,8 @@ work:
     date_end: 2022-04-08
     summary: |
       Research on tumor segmentation in mammograms using deep learning.
-      Advised by [Prof. Dr. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
+
+      Advised by [Prof. Dr. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/) and co-advised by [Assoc. Prof. Dr. Nikola Simidjievski](https://simidjievskin.github.io/).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

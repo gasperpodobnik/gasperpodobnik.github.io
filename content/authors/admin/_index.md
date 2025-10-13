@@ -108,10 +108,11 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-11-06
-    date_end: ''
+    date_end: 2025-06-06
     summary: |
-      Research on synthetic data generation for medical image analysis tasks.
-      Supervised by [Assoc Prof Mathias Unberath](https://mathiasunberath.github.io/).
+      Developed [AnatomyGen](https://doi.org/10.1007/978-3-032-06774-6_10), a generative model of human anatomy using implicit neural representations, capable of producing realistic, high-resolution anatomical phantoms for use in virtual imaging trials in medicine and _in silico_ experimentation.
+
+      Advised by [Assoc. Prof. Dr. Mathias Unberath](https://mathiasunberath.github.io/).
   - position: Research Intern
     company_name: University of Cambridge
     company_url: ''
@@ -120,7 +121,7 @@ work:
     date_end: 2022-04-08
     summary: |
       Research on tumor segmentation in mammograms using deep learning.
-      Supervised by [Prof Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
+      Advised by [Prof. Dr. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

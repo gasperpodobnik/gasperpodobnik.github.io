@@ -48,7 +48,6 @@ education:
     date_end: 2025-09-17
     summary: |
       Thesis: [_Multi-modal Medical Image Segmentation Using Deep Learning_](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=173577&lang=eng).
-
       Advised by [Prof. Dr. Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/) and co-advised by [Assoc. Prof. Dr. Bulat Ibragimov](https://bulatibragimov.com/).
 
       My doctoral research focused on improving the accuracy and clinical reliability of organ-at-risk (OAR) segmentation for radiotherapy planning, particularly in the anatomically complex head and neck region. I investigated the potential and limitations of combining computed tomography (CT) and magnetic resonance (MR) data for this task, addressing challenges such as image registration, modality-specific artifacts, and clinical validation. As part of this work, we developed the [HaN-Seg dataset](https://zenodo.org/records/7442914) - a public paired CT–MR dataset with expert annotations - and organized a [computational challenge](https://han-seg2023.grand-challenge.org/) on multi-modal segmentation. We also designed in-house multi-modal models to explore the integration of CT and MR information. On the validation side, we conducted geometric, dosimetric, and psychometric analyses of organ-at-risk auto-segmentation and introduced [MeshMetrics](https://github.com/gasperpodobnik/MeshMetrics), a mesh-based implementation of distance-based metrics for 2D and 3D segmentation evaluation.

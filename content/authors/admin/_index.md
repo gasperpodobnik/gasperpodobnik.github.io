@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher (Open to Work) | PhD in Medical Image Analysis
+role: Founding Engineer at Semaphor Surgical
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

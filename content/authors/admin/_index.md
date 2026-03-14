@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Founding Engineer at Semaphor Surgical
+role: Founding Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Ljubljana
-    url: https://lit.fe.uni-lj.si/en/members/gasperp/
+  - name: Semaphor Surgical
+    url: https://semaphorsurgical.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

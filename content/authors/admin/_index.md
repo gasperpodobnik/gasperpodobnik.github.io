@@ -51,12 +51,15 @@ education:
       Advised by [Prof. Dr. Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/) and co-advised by [Assoc. Prof. Dr. Bulat Ibragimov](https://bulatibragimov.com/).
 
       My doctoral research focused on improving the accuracy and clinical reliability of organ-at-risk (OAR) segmentation for radiotherapy planning, particularly in the anatomically complex head and neck region. I investigated the potential and limitations of combining computed tomography (CT) and magnetic resonance (MR) data for this task, addressing challenges such as image registration, modality-specific artifacts, and clinical validation. As part of this work, we developed the [HaN-Seg dataset](https://zenodo.org/records/7442914) - a public paired CT–MR dataset with expert annotations - and organized a [computational challenge](https://han-seg2023.grand-challenge.org/) on multi-modal segmentation. We also designed in-house multi-modal models to explore the integration of CT and MR information. On the validation side, we conducted geometric, dosimetric, and psychometric analyses of organ-at-risk auto-segmentation and introduced [MeshMetrics](https://github.com/gasperpodobnik/MeshMetrics), a mesh-based implementation of distance-based metrics for 2D and 3D segmentation evaluation.
+    button:
+      text: 'Read Thesis'
+      url: 'https://repozitorij.uni-lj.si/IzpisGradiva.php?id=173577&lang=eng'
   - area: Summer School on Machine Learning 
     institution: Eastern European Machine Learning Summer School (EEML)
     date_start: 2024-07-15
     date_end: 2024-07-20
     summary: |
-      Presented a poster, participated in lectures and coding tutorials on various topics including: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality.
+      Lectures and practicals on various topics: Diffusion Models and Generative AI, Reasoning with Deep Learning, Bayesian Deep Learning, Deep Reinforcement Learning, Transformers, Self-Supervised Learning, Visual-Language Models, Geometric Deep Learning, Advanced Architectures, Robustness & Fairness, and Causality.
 
       These sessions were led by some of the field's leading experts, such as Alfredo Canziani, Sander Dieleman, Nenad Tomašev, Petar Veličković, Matko Bošnjak, Yee Whye Teh, Aleksandra Faust, Çağlar Gülçehre, Chris Dyer, Jovana Mitrović, Michael Bronstein, Razvan Pascanu, Martin Vechev, Ivana Malenica, and others.
   - area: MSc Electrical Engineering | Biomedical Engineering
@@ -65,14 +68,6 @@ education:
     date_end: 2020-09-11
     summary: |
       GPA: 10.0/10.0
-
-      Courses included:
-      - Neurocybernetics
-      - Medical Image Analysis
-      - Intelligent Methods in Biomedicine Data-mining
-      - Biomedical Imaging Technologies
-      - Biomedical Sensors and Electronics
-      - Biomedical Signal Processing
 
       Master's Thesis: _Regression models for predicting cerebrospinal fluid biomarkers of Alzheimer's disease_
     button:
@@ -90,13 +85,6 @@ education:
     date_end: 2018-07-02
     summary: |
       GPA: 10.0/10.0
-
-      Courses included:
-      - Control Systems
-      - Signal Processing
-      - Intelligent Systems
-      - Semiconductor Electronics
-      - Optoelectronics
       
       Activities and societies: 
       - Student Council, 
@@ -171,6 +159,20 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: PhD - Summa Cum Laude
+    date: '2026-01-09'
+    awarder: University of Ljubljana
+    icon: edx
+    summary: |
+      Awarded for contributions to the field as part of my PhD thesis.
+  - title: IEEE Transactions on Medical Imaging (TMI) Distinguished Reviewer Certificate of Excellence 2025
+    url: https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html
+    date: '2025-12-24'
+    awarder: IEEE Transactions on Medical Imaging
+    icon: edx
+    summary: |
+      Recognition for contributions to the peer-review process for IEEE TMI.
+  - title: Winner of Best Technical Implementation at the Computer Vision Projects Expo 2024
   - title: Outstanding reviewer award (MICCAI 2025)
     url: https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html
     date: '2025-09-23'
@@ -213,8 +215,10 @@ awards:
       The Dean's Award is an annual recognition given to the top-performing students in each academic year based on their academic achievements and grades. I have received this award for all three years of my bachelor's studies and both years of my master's studies.
 ---
 
-I recently earned my PhD in Electrical Engineering from the **University of Ljubljana** (Slovenia). During my doctoral studies, I completed two international research fellowships: as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), and as a _Fulbright Scholar_ at **Johns Hopkins University** (USA). I am currently transitioning to a new role and am open to new opportunities.
+I am a founding engineer at [Semaphor Surgical](https://semaphorsurgical.com/), a US-based startup developing foundational AI infrastructure for autonomous and intelligent surgical systems.
 
-My research focuses on medical image analysis, 3D semantic segmentation, modeling of human anatomy, development of validation metrics, and synthetic data creation. I am particularly interested in virtual imaging trials, digital patient twins, and their applications in radiotherapy, disease diagnosis, AI tool validation, and the creation of next-generation tools for precision and personalized medicine. 
+In 2025, I received my PhD in Electrical Engineering from the **University of Ljubljana** (Slovenia), where I was a member of the [Laboratory of Imaging Technologies](https://lit.fe.uni-lj.si/en/) and advised by [Prof. Dr. Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/). During my doctoral studies, I completed two international research fellowships: as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), advised by [Prof. Dr. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/) and co-advised by [Assoc. Prof. Dr. Nikola Simidjievski](https://simidjievskin.github.io/), and as a _Fulbright Scholar_ at **Johns Hopkins University** (USA) in the [ARCADE Lab](https://www.arcade.cs.jhu.edu/) led by [Assoc. Prof. Dr. Mathias Unberath](https://mathiasunberath.github.io/).
+
+My doctoral research focused on medical image analysis, 3D semantic segmentation, modeling of human anatomy, development of validation metrics, and synthetic data generation. More broadly, I am interested in physics-based simulation, virtual imaging trials, generative shape modeling, and digital patient twins, particularly in the context of next-generation autonomous surgical systems.
 
 For a full list of my publications, please refer to my [CV](uploads/GasperPodobnik-CV.pdf) or [Google Scholar](https://scholar.google.com/citations?user=wLYUwqMAAAAJ&hl=sl&oi=ao). Feel free to reach out if you'd like to collaborate! 😃

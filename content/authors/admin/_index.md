@@ -214,7 +214,7 @@ awards:
       The Dean's Award is an annual recognition given to the top-performing students in each academic year based on their academic achievements and grades. I have received this award for all three years of my bachelor's studies and both years of my master's studies.
 ---
 
-I am a founding engineer at [Semaphor Surgical](https://semaphorsurgical.com/), a US-based startup developing foundational AI infrastructure for autonomous and intelligent surgical systems.
+I am a founding engineer at [Semaphor Surgical](https://semaphorsurgical.com/), a US-based startup developing foundational AI infrastructure for intelligent and autonomous surgical systems.
 
 In 2025, I received my PhD in Electrical Engineering from the **University of Ljubljana** (Slovenia), where I was a member of the [Laboratory of Imaging Technologies](https://lit.fe.uni-lj.si/en/) and advised by [Prof. Dr. Tomaž Vrtovec](https://lit.fe.uni-lj.si/en/members/tomazv/). During my doctoral studies, I completed two international research fellowships: as an _ASEF Junior Fellow_ at the Computer Laboratory, **University of Cambridge** (UK), advised by [Prof. Dr. Mateja Jamnik](https://www.cl.cam.ac.uk/~mj201/) and co-advised by [Assoc. Prof. Dr. Nikola Simidjievski](https://simidjievskin.github.io/), and as a _Fulbright Scholar_ at **Johns Hopkins University** (USA) in the [ARCADE Lab](https://www.arcade.cs.jhu.edu/) led by [Assoc. Prof. Dr. Mathias Unberath](https://mathiasunberath.github.io/).
 

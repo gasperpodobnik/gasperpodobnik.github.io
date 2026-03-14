@@ -172,7 +172,6 @@ awards:
     icon: edx
     summary: |
       Recognition for contributions to the peer-review process for IEEE TMI.
-  - title: Winner of Best Technical Implementation at the Computer Vision Projects Expo 2024
   - title: Outstanding reviewer award (MICCAI 2025)
     url: https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html
     date: '2025-09-23'
